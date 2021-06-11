@@ -1,0 +1,78 @@
+body {
+	font-family: arial;
+	text-align: center;
+	margin-left: 10;
+	margin-right: 0;
+	background-color: 927F8D;
+}
+
+
+h1 {
+color: white;
+font-size: 40px;
+}
+h2{
+color: coral;
+font-size: 30px;
+}
+h3{
+color: rgb(255, 255, 255);
+font-size: 16px;
+text-align: left;
+margin: 0px;
+}
+.navegator a {
+	display: list-item;
+    color: black;
+    background-color: lavenderblush;
+    padding: 9px 8px;
+    margin: 13px 191px;
+    border: 12px solid #d2aeba;
+    border-radius: 32px;
+}
+a:hover {
+	color: red;
+}
+#datos {
+	margin: 0px 0px;
+	padding: 0px 0px;
+	   background-color: rgba(192, 21, 101, 0.5);
+	   border: 10px solid rgba(192, 21, 101, 0.5);
+}
+
+
+img {
+    width: 150px;
+}
+
+.box-white{
+    color: rgb(55, 65, 130);
+    background-color: lavenderblush;
+    padding: 2px 8px;
+    margin: 6px 82px;
+    border: 4px solid #d2aeba;
+    border-radius: 12px;
+}
+.curriculum{
+    padding-block: 2px;
+    display: flex;
+    margin: 32px;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    align-items: center;}
+.parrafos{
+    	text-align: left;
+    }
+.btn-whatsapp{
+ width: 30px;
+ height: 30px;
+ }
+.navegator{
+	text-decoration: none;
+	margin: 30px 30px;
+}
+.unc {
+text: white;
+}
